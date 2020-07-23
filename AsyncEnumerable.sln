@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncEnumerable", "AsyncEnumerable.csproj", "{E4085172-D3C1-4C81-8199-5104305F4229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4085172-D3C1-4C81-8199-5104305F4229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4085172-D3C1-4C81-8199-5104305F4229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4085172-D3C1-4C81-8199-5104305F4229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4085172-D3C1-4C81-8199-5104305F4229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E085A12-F368-4251-B05B-EB69E7BE5A8D}
+	EndGlobalSection
+EndGlobal
